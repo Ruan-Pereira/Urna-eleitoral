@@ -17,7 +17,7 @@ Urna eleitoral
 <p>
 
 ## Descrição
-O projeto foi desenvolvido para fixa alguns conhecimentos, o proprio conta com um pequeno backend onde guarda as informações dos canditadose retorna os dadosos exibindo em tela, e conta com uma função para cada botão onde épossivel corrigir seu voto, votar em branco e confirmar o seu voto
+O projeto foi desenvolvido para fixa alguns conhecimentos, o proprio conta com um pequeno backend onde guarda as informações dos canditados e retorna os dados e os  exibi em tela, e conta com uma função para cada botão onde é possivel votar em branco, corrigir seu voto e confirmar o seu voto
 
 ## Tecnologias Utilizadas
 
