@@ -6,7 +6,7 @@ Urna eleitoral
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ruan-pereira/Urna-eleitoral?style=for-the-badge&logo=javascript">
-  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=for-the-badge"><br/>
+  <img alt="Made by Bonieky" src="https://img.shields.io/badge/made%20by-Bonieky-%237519C1?style=for-the-badge"><br/>
   <img alt="Code by RangelPereira" src="https://img.shields.io/badge/Code%20by-Ruan Pereira-%237519C1?style=for-the-badge"><br/>
 </p>
 
